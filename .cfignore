@@ -1,0 +1,11 @@
+server_snapshot_*
+snapshot-*
+staging/
+*.zip
+*.tar.gz
+*.bak
+*.py
+.agents/
+.wrangler/
+specs/
+privacy-policy-2/

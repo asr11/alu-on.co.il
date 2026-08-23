@@ -1,0 +1,36 @@
+# Alu-On (אלו און)
+
+> Alu-On is an Israeli building-envelope specialist based in Haifa, providing end-to-end engineering, manufacturing, and installation of aluminum cladding, Alucobond (ACP) composite panels, HPL exterior panels, and curtain wall systems for commercial and residential projects.
+
+## Company Information
+- [About Alu-On](https://alu-on.co.il/about/): Company background, engineering team, and mission.
+- [Contact](https://alu-on.co.il/contact/): Office address in Haifa, phone (050-999-7753), and inquiry form.
+
+## Products & Services
+- [Aluminum Cladding](https://alu-on.co.il/aluminum/): Full aluminum facade cladding solutions — design, fabrication, and installation.
+- [Alucobond / ACP Panels](https://alu-on.co.il/alucobond/): Composite aluminum panel systems for exterior facades.
+- [HPL Exterior Panels](https://alu-on.co.il/hpl/): High-Pressure Laminate cladding for durable, weather-resistant exteriors.
+- [Curtain Wall Systems](https://alu-on.co.il/curtain-walls/): Structural glazing and curtain wall engineering.
+
+## Technical Specifications
+- [Aluminum 2mm Spec Sheet](https://alu-on.co.il/specs/aluminum-2mm-spec.html): Technical specification for 2mm aluminum cladding panels.
+- [Alucobond Spec Sheet](https://alu-on.co.il/specs/alucobond-spec.html): Technical specification for Alucobond ACP panels.
+- [HPL Spec Sheet](https://alu-on.co.il/specs/hpl-spec.html): Technical specification for HPL exterior cladding.
+- [Curtain Wall Spec Sheet](https://alu-on.co.il/specs/curtain-wall-spec.html): Technical specification for curtain wall systems.
+
+## Articles & Guides
+- [Articles](https://alu-on.co.il/articles/): Industry articles and building-envelope insights.
+- [Curtain Wall Systems — Architectural Guide](https://alu-on.co.il/curtain-wall-systems-architectural-guide/): Comprehensive guide for architects on curtain wall design.
+- [HPL Exterior Cladding in Israel](https://alu-on.co.il/hpl-exterior-cladding-israel/): Guide to HPL cladding applications in Israeli climate.
+- [Alucobond Facade Cladding Guide](https://alu-on.co.il/alucobond-facade-cladding-guide/): Complete guide to Alucobond facade design and installation.
+
+## Projects
+- [Project Portfolio](https://alu-on.co.il/projects/): Gallery of completed building-envelope projects.
+
+## For Architects
+- [Architects Portal](https://alu-on.co.il/architects/): Resources, cost estimation tools, and collaboration info for architects.
+
+## Legal
+- [Privacy Policy](https://alu-on.co.il/privacy-policy/): Data privacy and cookie policy.
+- [Terms of Service](https://alu-on.co.il/terms/): Terms and conditions.
+- [Accessibility Statement](https://alu-on.co.il/accessibility/): WCAG compliance and accessibility commitment.
