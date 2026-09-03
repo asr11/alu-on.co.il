@@ -63,4 +63,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://alu-on.co.il/wp-sitemap.xml
+Sitemap: https://alu-on.co.il/sitemap.xml

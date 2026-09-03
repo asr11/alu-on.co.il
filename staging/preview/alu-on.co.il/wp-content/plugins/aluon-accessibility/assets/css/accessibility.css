@@ -1,0 +1,227 @@
+/* ==========================================================================
+   Alu-on Accessibility Plugin Stylesheet (WCAG 2.1 AA / ת"י 5568)
+   ========================================================================== */
+
+/* Floating Button */
+.aluon-a11y-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999999;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #0055ff;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  box-shadow: 0 8px 25px rgba(0, 85, 255, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+/* Floating Button Positions */
+.aluon-a11y-btn.aluon-pos-bottom-right { bottom: 20px; right: 20px; left: auto; top: auto; }
+.aluon-a11y-btn.aluon-pos-bottom-left { bottom: 20px; left: 20px; right: auto; top: auto; }
+.aluon-a11y-btn.aluon-pos-top-right { top: 20px; right: 20px; left: auto; bottom: auto; }
+.aluon-a11y-btn.aluon-pos-top-left { top: 20px; left: 20px; right: auto; bottom: auto; }
+
+.aluon-a11y-panel.aluon-pos-bottom-right { bottom: 80px; right: 20px; left: auto; top: auto; }
+.aluon-a11y-panel.aluon-pos-bottom-left { bottom: 80px; left: 20px; right: auto; top: auto; }
+.aluon-a11y-panel.aluon-pos-top-right { top: 80px; right: 20px; left: auto; bottom: auto; }
+.aluon-a11y-panel.aluon-pos-top-left { top: 80px; left: 20px; right: auto; bottom: auto; }
+
+.aluon-a11y-btn:focus-visible {
+  outline: 3px solid #ffcc00;
+  outline-offset: 4px;
+}
+
+/* Accessibility Modal Panel */
+.aluon-a11y-panel {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  z-index: 999999;
+  width: 330px;
+  max-height: 85vh;
+  overflow-y: auto;
+  background: #141417;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 1rem;
+  padding: 1.25rem;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.9);
+  display: none;
+  flex-direction: column;
+  gap: 1rem;
+  direction: rtl;
+  color: #ffffff;
+  font-family: 'Rubik', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.aluon-a11y-panel.open {
+  display: flex;
+}
+
+/* Header */
+.aluon-a11y-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  padding-bottom: 0.75rem;
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+.aluon-a11y-close {
+  background: none;
+  border: none;
+  color: #a1a1aa;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: color 0.15s ease;
+}
+
+.aluon-a11y-close:hover {
+  color: #ffffff;
+}
+
+/* Grid Options */
+.aluon-a11y-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+}
+
+.aluon-a11y-opt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+  padding: 0.65rem 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 0.82rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  width: 100%;
+  text-decoration: none;
+  text-align: center;
+}
+
+.aluon-a11y-opt:hover {
+  background: rgba(255, 255, 255, 0.18);
+  border-color: #ffffff;
+}
+
+.aluon-a11y-opt.active {
+  background: rgba(0, 85, 255, 0.45) !important;
+  border-color: #0055ff !important;
+  color: #ffffff !important;
+}
+
+/* Footer Controls */
+.aluon-a11y-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  padding-top: 0.75rem;
+}
+
+.aluon-a11y-reset {
+  background: rgba(255, 68, 68, 0.15) !important;
+  color: #ff8888 !important;
+  border-color: rgba(255, 68, 68, 0.3) !important;
+}
+
+.aluon-a11y-reset:hover {
+  background: rgba(255, 68, 68, 0.35) !important;
+  color: #ffffff !important;
+}
+
+/* ==========================================================================
+   Global Accessibility Custom Modes (Applied dynamically on <body>)
+   ========================================================================== */
+
+/* Typography Scaling */
+body.a11y-font-lg { font-size: 118% !important; }
+body.a11y-font-sm { font-size: 88% !important; }
+
+/* Font Style */
+body.a11y-readable-font * {
+  font-family: 'Arial', 'Segoe UI', sans-serif !important;
+  letter-spacing: 0.03em !important;
+}
+
+/* Color & Contrast Filters */
+body.a11y-high-contrast { filter: contrast(160%) brightness(110%); }
+body.a11y-invert { filter: invert(100%) hue-rotate(180deg); }
+body.a11y-grayscale { filter: grayscale(100%); }
+
+/* Light Theme Mode */
+body.a11y-light-bg {
+  background: #ffffff !important;
+  color: #000000 !important;
+}
+body.a11y-light-bg * {
+  background-color: transparent !important;
+  color: #000000 !important;
+  border-color: #333333 !important;
+}
+
+/* Highlight Links */
+body.a11y-links a {
+  text-decoration: underline !important;
+  outline: 2px solid #ffcc00 !important;
+  background: rgba(255, 204, 0, 0.2) !important;
+  color: #ffff00 !important;
+}
+
+/* Big Cursor */
+body.a11y-cursor, body.a11y-cursor * {
+  cursor: crosshair !important;
+}
+
+/* Motion Cancellation */
+body.a11y-stop-anim *,
+body.a11y-stop-anim *::before,
+body.a11y-stop-anim *::after {
+  animation: none !important;
+  transition: none !important;
+}
+
+/* Screen Reader Only Utility */
+.screen-reader-text {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* Responsive Mobile Panel */
+@media (max-width: 768px) {
+  .aluon-a11y-btn {
+    bottom: 15px;
+    right: 15px;
+    width: 44px;
+    height: 44px;
+    font-size: 1.2rem;
+  }
+  .aluon-a11y-panel {
+    bottom: 70px;
+    right: 15px;
+    width: 290px;
+  }
+}

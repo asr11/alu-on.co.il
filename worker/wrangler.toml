@@ -1,0 +1,9 @@
+name = "aluon-leads-worker"
+main = "src/index.js"
+compatibility_date = "2024-08-25"
+node_compat = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "aluon-leads-db"
+database_id = "preview-db-id"
