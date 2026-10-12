@@ -1,0 +1,12 @@
+# Cloudflare Pages headers
+# Static theme/plugin assets: 1 year, immutable.
+# RULE: when changing a file under /wp-content/, bump its ?ver= in the HTML
+# (style.css?ver=, app.js?ver=, fonts ?v=) or save images under a NEW filename.
+/wp-content/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+
+/robots.txt
+  Cache-Control: public, max-age=3600
