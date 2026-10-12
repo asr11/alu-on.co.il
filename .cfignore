@@ -7,5 +7,4 @@ staging/
 *.py
 .agents/
 .wrangler/
-specs/
 privacy-policy-2/
