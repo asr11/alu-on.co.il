@@ -23,7 +23,6 @@
 - [Curtain Wall Systems — Architectural Guide](https://alu-on.co.il/curtain-wall-systems-architectural-guide/): Comprehensive guide for architects on curtain wall design.
 - [HPL Exterior Cladding in Israel](https://alu-on.co.il/hpl-exterior-cladding-israel/): Guide to HPL cladding applications in Israeli climate.
 - [Alucobond Facade Cladding Guide](https://alu-on.co.il/alucobond-facade-cladding-guide/): Complete guide to Alucobond facade design and installation.
-- [Ventilated Facade Guide](https://alu-on.co.il/ventilated-facade-guide/): Practical guide for architects and developers on ventilated (rainscreen) facades, sub-frames, FR vs A2 fire considerations, and maintenance.
 
 ## Projects
 - [Project Portfolio](https://alu-on.co.il/projects/): Gallery of completed building-envelope projects.
