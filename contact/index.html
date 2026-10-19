@@ -30,19 +30,36 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "/#organization",
+      "@id": "https://alu-on.co.il/#organization",
       "name": "אלו און",
       "alternateName": "Alu-on group",
       "url": "https://alu-on.co.il",
       "logo": "https://alu-on.co.il/wp-content/themes/aluon-wp-theme/images/logo.svg",
-      "telephone": "+972525887454",
+      "telephone": "+972509997753",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "חלוצי התעשייה, חיפה",
         "addressLocality": "חיפה",
         "addressCountry": "IL"
       },
-      "areaServed": "IL"
+      "areaServed": "IL",
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+972509997753",
+          "contactType": "customer service",
+          "areaServed": "IL",
+          "availableLanguage": "he"
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+972525887454",
+          "contactType": "customer service",
+          "contactOption": "WhatsApp",
+          "areaServed": "IL",
+          "availableLanguage": "he"
+        }
+      ]
     },
     {
       "@type": "HomeAndConstructionBusiness",
@@ -81,7 +98,7 @@
         "name": "ישראל"
       },
       "parentOrganization": {
-        "@id": "/#organization"
+        "@id": "https://alu-on.co.il/#organization"
       }
     }
   ]
