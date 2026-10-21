@@ -12,13 +12,14 @@
 - [HPL Exterior Panels](https://alu-on.co.il/hpl/): High-Pressure Laminate cladding for durable, weather-resistant exteriors.
 - [Exterior Wall Cladding](https://alu-on.co.il/exterior-wall-cladding/): Hebrew guide to exterior wall cladding types (aluminum, Alucobond, HPL, curtain walls), comparison, cost factors and process.
 - [Building Cladding in Haifa & the North](https://alu-on.co.il/haifa-building-cladding/): Haifa-based cladding services for Haifa, the Krayot and northern Israel, incl. coastal-climate considerations.
+- [Cladding Price per m²](https://alu-on.co.il/cladding-price-per-meter/): Hebrew guide to cladding cost per square metre: typical range 650–1,200 ILS per m², what affects the price and how to get a quote.
 - [Curtain Wall Systems](https://alu-on.co.il/curtain-walls/): Structural glazing and curtain wall engineering.
 
 ## Technical Specifications
-- [Aluminum 2mm Spec Sheet](https://alu-on.co.il/specs/aluminum-2mm-spec.html): Technical specification for 2mm aluminum cladding panels.
-- [Alucobond Spec Sheet](https://alu-on.co.il/specs/alucobond-spec.html): Technical specification for Alucobond ACP panels.
-- [HPL Spec Sheet](https://alu-on.co.il/specs/hpl-spec.html): Technical specification for HPL exterior cladding.
-- [Curtain Wall Spec Sheet](https://alu-on.co.il/specs/curtain-wall-spec.html): Technical specification for curtain wall systems.
+- [Aluminum 2mm Spec Sheet](https://alu-on.co.il/specs/aluminum-2mm-spec): Technical specification for 2mm aluminum cladding panels.
+- [Alucobond Spec Sheet](https://alu-on.co.il/specs/alucobond-spec): Technical specification for Alucobond ACP panels.
+- [HPL Spec Sheet](https://alu-on.co.il/specs/hpl-spec): Technical specification for HPL exterior cladding.
+- [Curtain Wall Spec Sheet](https://alu-on.co.il/specs/curtain-wall-spec): Technical specification for curtain wall systems.
 
 ## Articles & Guides
 - [Articles](https://alu-on.co.il/articles/): Industry articles and building-envelope insights.
@@ -26,6 +27,12 @@
 - [HPL Exterior Cladding in Israel](https://alu-on.co.il/hpl-exterior-cladding-israel/): Guide to HPL cladding applications in Israeli climate.
 - [How to plan an Alucobond facade – step-by-step guide](https://alu-on.co.il/alucobond-facade-cladding-guide/): Step-by-step guide to planning an Alucobond (ACP) facade: core type and fire rating, colour, sub-frame, installation and care.
 - [Building Cladding — Types, Benefits & How to Choose](https://alu-on.co.il/building-cladding/): Hebrew guide to building cladding types (aluminum, Alucobond, HPL), benefits and selection.
+- [Aluminum Cladding for Commercial Buildings – Guide](https://alu-on.co.il/commercial-aluminum-cladding-guide/): Hebrew guide to choosing aluminum cladding for commercial buildings: cladding types, durability, maintenance and budget considerations.
+- [Curtain Walls – Energy and Green-Building Benefits](https://alu-on.co.il/curtain-walls-energy-benefits/): Hebrew article on the energy and environmental benefits of curtain walls: thermal insulation, natural light and lower energy use.
+- [HPL Facade Maintenance and Cleaning Tips](https://alu-on.co.il/hpl-maintenance-tips/): Hebrew article with practical tips for maintaining and cleaning HPL facade panels: suitable cleaners, frequency and what to avoid.
+- [Aluminum and Glass in Modern Architecture](https://alu-on.co.il/aluminum-glass-modern-architecture/): Hebrew article on combining aluminum and glass in modern architecture: benefits, design and planning considerations for facades.
+- [Alucobond vs Solid Aluminum – Comparison](https://alu-on.co.il/alucobond-vs-solid-aluminum/): Hebrew comparison of Alucobond (ACP) and solid aluminum cladding: structure, fire performance, weight, cost and when to choose each.
+- [Facade Cladding and Property Value](https://alu-on.co.il/facade-cladding-property-value/): Hebrew article on how facade cladding affects property value: appearance, durability, insulation and maintenance.
 
 ## Projects
 - [Project Portfolio](https://alu-on.co.il/projects/): Gallery of completed building-envelope projects.
