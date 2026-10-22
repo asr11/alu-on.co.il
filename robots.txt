@@ -3,4 +3,19 @@ Allow: /
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
+# AI search and assistant crawlers: allowed (approved 2026-10-22)
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
+Disallow: /wp-admin/
+
 Sitemap: https://alu-on.co.il/sitemap.xml
